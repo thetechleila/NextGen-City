@@ -3,10 +3,10 @@
         <inactive>false</inactive>
         <order>4</order>
         <published_ref/>
-        <question display_value="Severity">9cd8dceb478fb1105c6f8c1f316d43c0</question>
+        <question display_value="Select the severity level of this complaint from the list. ">9cd8dceb478fb1105c6f8c1f316d43c0</question>
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-12-17 10:13:12</sys_created_on>
+        <sys_created_on>2023-12-20 22:59:41</sys_created_on>
         <sys_id>14d8dceb478fb1105c6f8c1f316d43ce</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>4 - Unbearable</sys_name>
@@ -15,7 +15,7 @@
         <sys_scope display_value="NextGen City">a02b4cfe470331105c6f8c1f316d4320</sys_scope>
         <sys_update_name>question_choice_14d8dceb478fb1105c6f8c1f316d43ce</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-12-17 10:18:51</sys_updated_on>
+        <sys_updated_on>2023-12-20 23:00:30</sys_updated_on>
         <text>4 - Unbearable</text>
         <value>4 - Unbearable</value>
     </question_choice>
