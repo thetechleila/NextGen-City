@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2024-02-02 03:59:57">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-17 11:09:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>28f5a82b47cfb1105c6f8c1f316d435c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PA Landlord Demographics</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NextGen City" source="x_1152975_nextgen">a02b4cfe470331105c6f8c1f316d4320</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NextGen City">a02b4cfe470331105c6f8c1f316d4320</sys_scope>
+        <sys_update_name>sys_portal_page_28f5a82b47cfb1105c6f8c1f316d435c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-17 11:09:42</sys_updated_on>
+        <title>PA Landlord Demographics</title>
+        <user/>
+        <view>pa_nextgen_city_directo_-_new_tab_3</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Landlord Demographics">28f5a82b47cfb1105c6f8c1f316d435c</page>
+                <summary>Average Age of NextGen City Landlords</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2023-12-17 11:11:15</sys_created_on>
+                <sys_id>5b562c2b47cfb1105c6f8c1f316d4380</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2023-12-17 11:11:15</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2023-12-17 03:11:15">5b562c2b47cfb1105c6f8c1f316d4380</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-12-17 11:11:15</sys_created_on>
+                        <sys_id>1b562c2b47cfb1105c6f8c1f316d4382</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-12-17 11:11:15</sys_updated_on>
+                        <value>Average Age of NextGen City Landlords</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2023-12-17 03:11:15">5b562c2b47cfb1105c6f8c1f316d4380</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-12-17 11:11:15</sys_created_on>
+                        <sys_id>1f562c2b47cfb1105c6f8c1f316d4381</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-12-17 11:11:15</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2023-12-17 03:11:15">5b562c2b47cfb1105c6f8c1f316d4380</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-12-17 11:11:15</sys_created_on>
+                        <sys_id>57562c2b47cfb1105c6f8c1f316d4382</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-12-17 11:11:15</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2023-12-17 03:11:15">5b562c2b47cfb1105c6f8c1f316d4380</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-12-17 11:11:15</sys_created_on>
+                        <sys_id>5b562c2b47cfb1105c6f8c1f316d4381</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-12-17 11:11:15</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2023-12-17 03:11:15">5b562c2b47cfb1105c6f8c1f316d4380</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-12-17 11:11:15</sys_created_on>
+                        <sys_id>93562c2b47cfb1105c6f8c1f316d4382</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-12-17 11:11:15</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2023-12-17 03:11:15">5b562c2b47cfb1105c6f8c1f316d4380</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-12-17 11:11:15</sys_created_on>
+                        <sys_id>d3562c2b47cfb1105c6f8c1f316d4383</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-12-17 11:11:15</sys_updated_on>
+                        <value/>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2023-12-17 03:11:15">5b562c2b47cfb1105c6f8c1f316d4380</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-12-17 11:11:15</sys_created_on>
+                        <sys_id>df562c2b47cfb1105c6f8c1f316d4380</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-12-17 11:11:15</sys_updated_on>
+                        <value>d156a82b47cfb1105c6f8c1f316d4347</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2023-12-17 03:11:15">5b562c2b47cfb1105c6f8c1f316d4380</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-12-17 11:11:15</sys_created_on>
+                        <sys_id>df562c2b47cfb1105c6f8c1f316d4381</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-12-17 11:11:15</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Landlord Demographics">28f5a82b47cfb1105c6f8c1f316d435c</page>
+                <summary>NextGen City Landlord Ratings</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2023-12-17 11:15:14</sys_created_on>
+                <sys_id>a947e8ab47cfb1105c6f8c1f316d4353</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2023-12-17 11:15:14</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2023-12-17 03:15:14">a947e8ab47cfb1105c6f8c1f316d4353</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-12-17 11:15:14</sys_created_on>
+                        <sys_id>2147e8ab47cfb1105c6f8c1f316d4355</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-12-17 11:15:14</sys_updated_on>
+                        <value>NextGen City Landlord Ratings</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2023-12-17 03:15:14">a947e8ab47cfb1105c6f8c1f316d4353</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-12-17 11:15:14</sys_created_on>
+                        <sys_id>2547e8ab47cfb1105c6f8c1f316d4354</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-12-17 11:15:14</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2023-12-17 03:15:14">a947e8ab47cfb1105c6f8c1f316d4353</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-12-17 11:15:14</sys_created_on>
+                        <sys_id>2d47e8ab47cfb1105c6f8c1f316d4353</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-12-17 11:15:14</sys_updated_on>
+                        <value>bb376c6b47cfb1105c6f8c1f316d43ca</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2023-12-17 03:15:14">a947e8ab47cfb1105c6f8c1f316d4353</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-12-17 11:15:14</sys_created_on>
+                        <sys_id>6147e8ab47cfb1105c6f8c1f316d4354</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-12-17 11:15:14</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2023-12-17 03:15:14">a947e8ab47cfb1105c6f8c1f316d4353</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-12-17 11:15:14</sys_created_on>
+                        <sys_id>6d47e8ab47cfb1105c6f8c1f316d4354</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-12-17 11:15:14</sys_updated_on>
+                        <value>bar</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2023-12-17 03:15:14">a947e8ab47cfb1105c6f8c1f316d4353</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-12-17 11:15:14</sys_created_on>
+                        <sys_id>7547e8ab47cfb1105c6f8c1f316d4355</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-12-17 11:15:14</sys_updated_on>
+                        <value/>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2023-12-17 03:15:14">a947e8ab47cfb1105c6f8c1f316d4353</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-12-17 11:15:14</sys_created_on>
+                        <sys_id>a947e8ab47cfb1105c6f8c1f316d4354</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-12-17 11:15:14</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2023-12-17 03:15:14">a947e8ab47cfb1105c6f8c1f316d4353</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2023-12-17 11:15:14</sys_created_on>
+                        <sys_id>e547e8ab47cfb1105c6f8c1f316d4354</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2023-12-17 11:15:14</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

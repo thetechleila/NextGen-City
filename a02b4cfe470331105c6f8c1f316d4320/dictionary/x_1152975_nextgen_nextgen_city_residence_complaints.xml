@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="20fd97df478bb1105c6f8c1f316d4370" label="NextGen City Residence Complaints" max_length="40" name="x_1152975_nextgen_nextgen_city_residence_complaints" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Complaint" max_length="1000" name="complaint" type="string"/>
+        <element attributes="encode_utf8=false" label="Complaintant" max_length="32" name="complaintant" reference="x_1152975_nextgen_roommates" type="reference"/>
+        <element attributes="encode_utf8=false" label="NextGen Residence" max_length="32" name="nextgen_residence" reference="x_1152975_nextgen_residences" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" hint="This is the reference number for the complaint" label="Issue ID" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Severity" max_length="40" name="severity" type="string">
+            <choice>
+                <element inactive_on_update="false" label="1 - Worst" sequence="0" value="1 - Worst"/>
+                <element inactive="true" inactive_on_update="true" label="4 - Worst" sequence="0" value="4 - Worst"/>
+                <element inactive="true" inactive_on_update="true" label="1" sequence="1" value="1"/>
+                <element inactive_on_update="false" label="2" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="3" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="4" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="5 - Nuisance" sequence="4" value="5 - Nuisance"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="complaintant"/>
+        </index>
+        <index name="index2">
+            <element name="nextgen_residence"/>
+        </index>
+    </element>
+</database>

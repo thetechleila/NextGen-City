@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="74296d54471331105c6f8c1f316d4393" label="NextGen Admins" max_length="40" name="x_1152975_nextgen_nextgen_admins" type="collection">
+        <element attributes="encode_utf8=false" label="Admin" max_length="32" name="admin" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="admin"/>
+        </index>
+    </element>
+</database>

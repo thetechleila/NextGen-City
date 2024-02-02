@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="NextGen City">012b4cfe470331105c6f8c1f316d43be</application>
+        <filter/>
+        <name>Roommate Complaints</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_1152975_nextgen.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-15 01:51:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3103507a474331105c6f8c1f316d4318</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Roommate Complaints</sys_name>
+        <sys_package display_value="NextGen City" source="x_1152975_nextgen">a02b4cfe470331105c6f8c1f316d4320</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NextGen City">a02b4cfe470331105c6f8c1f316d4320</sys_scope>
+        <sys_update_name>sys_ui_module_3103507a474331105c6f8c1f316d4318</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-15 01:51:20</sys_updated_on>
+        <table>x_1152975_nextgen_roommate_complaints</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NextGen City">a02b4cfe470331105c6f8c1f316d4320</application>
+        <file_path/>
+        <instance_id>9d5ea203db6e7114caf99027c5961967</instance_id>
+        <instance_name>dev219679</instance_name>
+        <name>sys_ui_module_3103507a474331105c6f8c1f316d4318</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="NextGen City">012b4cfe470331105c6f8c1f316d43be</application><filter/><name>Roommate Complaints</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_1152975_nextgen.user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-15 01:51:20</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3103507a474331105c6f8c1f316d4318</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Roommate Complaints</sys_name><sys_package display_value="NextGen City" source="x_1152975_nextgen">a02b4cfe470331105c6f8c1f316d4320</sys_package><sys_policy/><sys_scope display_value="NextGen City">a02b4cfe470331105c6f8c1f316d4320</sys_scope><sys_update_name>sys_ui_module_3103507a474331105c6f8c1f316d4318</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-15 01:51:20</sys_updated_on><table>x_1152975_nextgen_roommate_complaints</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>-493607861</payload_hash>
+        <record_name>Roommate Complaints</record_name>
+        <reverted_from/>
+        <source>ac2b4cfe470331105c6f8c1f316d4345</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-15 01:51:20</sys_created_on>
+        <sys_id>fd03507a474331105c6f8c1f316d4319</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c6b2bc7480000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-15 01:51:20</sys_updated_on>
+        <type>Module</type>
+        <update_guid>3503507a44433110b1c30ac6a2b9c319</update_guid>
+        <update_guid_history>3503507a44433110b1c30ac6a2b9c319:-493607861</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-15 08:11:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>d72e24576d654bfe9c0b9d851b8a0b44</sys_id>
+        <sys_metadata>3103507a474331105c6f8c1f316d4318</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Roommate Complaints</sys_name>
+        <sys_package display_value="NextGen City" source="x_1152975_nextgen">a02b4cfe470331105c6f8c1f316d4320</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NextGen City">a02b4cfe470331105c6f8c1f316d4320</sys_scope>
+        <sys_scope_delete display_value="">0bf1ecd3b37149408a5bc02a3fd6a310</sys_scope_delete>
+        <sys_update_name>sys_ui_module_3103507a474331105c6f8c1f316d4318</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_3103507a474331105c6f8c1f316d4318">fd03507a474331105c6f8c1f316d4319</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-15 08:11:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

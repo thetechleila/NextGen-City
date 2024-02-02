@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="NextGen City">642b4cfe470331105c6f8c1f316d4315</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>NextGen Residences</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1152975_nextgen_nextgen_residences</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_1152975_nextgen.user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-17 05:50:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c1ec935f478bb1105c6f8c1f316d4355</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>NextGen Residence Complaints</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NextGen City" source="x_1152975_nextgen">a02b4cfe470331105c6f8c1f316d4320</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NextGen City">a02b4cfe470331105c6f8c1f316d4320</sys_scope>
+        <sys_update_name>sys_app_module_c1ec935f478bb1105c6f8c1f316d4355</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-17 05:51:27</sys_updated_on>
+        <timeline_page/>
+        <title>NextGen Residence Complaints</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NextGen City">a02b4cfe470331105c6f8c1f316d4320</application>
+        <file_path/>
+        <instance_id>9d5ea203db6e7114caf99027c5961967</instance_id>
+        <instance_name>dev219679</instance_name>
+        <name>sys_app_module_c1ec935f478bb1105c6f8c1f316d4355</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="NextGen City">642b4cfe470331105c6f8c1f316d4315</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>NextGen Residences</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1152975_nextgen_nextgen_residences</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_1152975_nextgen.user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-17 05:50:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c1ec935f478bb1105c6f8c1f316d4355</sys_id><sys_mod_count>1</sys_mod_count><sys_name>NextGen Residence Complaints</sys_name><sys_overrides/><sys_package display_value="NextGen City" source="x_1152975_nextgen">a02b4cfe470331105c6f8c1f316d4320</sys_package><sys_policy/><sys_scope display_value="NextGen City">a02b4cfe470331105c6f8c1f316d4320</sys_scope><sys_update_name>sys_app_module_c1ec935f478bb1105c6f8c1f316d4355</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-17 05:51:27</sys_updated_on><timeline_page/><title>NextGen Residence Complaints</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>431005692</payload_hash>
+        <record_name>NextGen Residence Complaints</record_name>
+        <reverted_from/>
+        <source>ac2b4cfe470331105c6f8c1f316d4345</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-17 05:51:27</sys_created_on>
+        <sys_id>a22d9f5f478bb1105c6f8c1f316d43e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c7654536d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-17 05:51:27</sys_updated_on>
+        <type>Module</type>
+        <update_guid>6a2d9f5f5a8bb1109dae3c1b8fd3a6e6</update_guid>
+        <update_guid_history>6a2d9f5f5a8bb1109dae3c1b8fd3a6e6:431005692,c9ec935fe48bb110b2696120de6b3f57:-684927396</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="NextGen Residence Complaints">23bd13df478bb1105c6f8c1f316d43d7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-17 05:53:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>1c14fcea39be4cb88495d6ebbb1ea164</sys_id>
+        <sys_metadata>c1ec935f478bb1105c6f8c1f316d4355</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NextGen Residence Complaints</sys_name>
+        <sys_package display_value="NextGen City" source="x_1152975_nextgen">a02b4cfe470331105c6f8c1f316d4320</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NextGen City">a02b4cfe470331105c6f8c1f316d4320</sys_scope>
+        <sys_scope_delete display_value="">0bf1ecd3b37149408a5bc02a3fd6a310</sys_scope_delete>
+        <sys_update_name>sys_app_module_c1ec935f478bb1105c6f8c1f316d4355</sys_update_name>
+        <sys_update_version display_value="sys_app_module_c1ec935f478bb1105c6f8c1f316d4355">a22d9f5f478bb1105c6f8c1f316d43e7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-17 05:53:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="preferred_form_of_contact" table="x_1152975_nextgen_roommate_complaints" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>preferred_form_of_contact</element>
+            <name>x_1152975_nextgen_roommate_complaints</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-15 08:55:57</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>preferred_form_of_contact</sys_name>
+            <sys_package display_value="NextGen City" source="x_1152975_nextgen">a02b4cfe470331105c6f8c1f316d4320</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NextGen City">a02b4cfe470331105c6f8c1f316d4320</sys_scope>
+            <sys_update_name>sys_choice_x_1152975_nextgen_roommate_complaints_preferred_form_of_contact</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-15 08:55:57</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>preferred_form_of_contact</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Phone</label>
+            <language>en</language>
+            <name>x_1152975_nextgen_roommate_complaints</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-15 08:55:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-15 08:55:57</sys_updated_on>
+            <value>Phone</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>preferred_form_of_contact</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Phone Call</label>
+            <language>en</language>
+            <name>x_1152975_nextgen_roommate_complaints</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-15 08:55:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-15 08:55:57</sys_updated_on>
+            <value>Phone Call</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>preferred_form_of_contact</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Email</label>
+            <language>en</language>
+            <name>x_1152975_nextgen_roommate_complaints</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-15 08:55:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-15 08:55:57</sys_updated_on>
+            <value>Email</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>preferred_form_of_contact</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Text</label>
+            <language>en</language>
+            <name>x_1152975_nextgen_roommate_complaints</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-15 08:55:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-15 08:55:57</sys_updated_on>
+            <value>Text</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

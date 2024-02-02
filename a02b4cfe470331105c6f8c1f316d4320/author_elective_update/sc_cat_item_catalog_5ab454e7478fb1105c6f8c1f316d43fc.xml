@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="NextGen City Residence Complaints Form">5e7fc42f474fb1105c6f8c1f316d4321</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-17 09:54:11</sys_created_on>
+        <sys_id>5ab454e7478fb1105c6f8c1f316d43fc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Service Catalog.NextGen City Residence Complaints Form</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="NextGen City">a02b4cfe470331105c6f8c1f316d4320</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_5ab454e7478fb1105c6f8c1f316d43fc</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-17 09:55:18</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NextGen City">a02b4cfe470331105c6f8c1f316d4320</application>
+        <file_path/>
+        <instance_id>9d5ea203db6e7114caf99027c5961967</instance_id>
+        <instance_name>dev219679</instance_name>
+        <name>sc_cat_item_catalog_5ab454e7478fb1105c6f8c1f316d43fc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="DELETE"><sc_cat_item display_value="NextGen City Residence Complaints Form">5e7fc42f474fb1105c6f8c1f316d4321</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-17 09:54:11</sys_created_on><sys_id>5ab454e7478fb1105c6f8c1f316d43fc</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Service Catalog.NextGen City Residence Complaints Form</sys_name><sys_package/><sys_policy/><sys_scope display_value="NextGen City">a02b4cfe470331105c6f8c1f316d4320</sys_scope><sys_update_name>sc_cat_item_catalog_5ab454e7478fb1105c6f8c1f316d43fc</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-12-17 09:55:18</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1595142022</payload_hash>
+        <record_name>Service Catalog.NextGen City Residence Complaints Form</record_name>
+        <reverted_from/>
+        <source>6716506b478fb1105c6f8c1f316d43e1</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-17 10:00:16</sys_created_on>
+        <sys_id>6316506b478fb1105c6f8c1f316d43e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c7738235b0000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-17 10:00:16</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>2716506be68fb110e203f12627813ce7</update_guid>
+        <update_guid_history>2716506be68fb110e203f12627813ce7:-1595142022,3ef41ce7d18fb11001d2bbbc47f59a7a:810108806</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.NextGen City Residence Complaints Form">b716506b478fb1105c6f8c1f316d43eb</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-17 10:00:17</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>1582e49460b74034900145a1788baf64</sys_id>
+        <sys_metadata>5ab454e7478fb1105c6f8c1f316d43fc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.NextGen City Residence Complaints Form</sys_name>
+        <sys_package display_value="NextGen City" source="x_1152975_nextgen">a02b4cfe470331105c6f8c1f316d4320</sys_package>
+        <sys_parent display_value="NextGen City Residence Complaints Form">5e7fc42f474fb1105c6f8c1f316d4321</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NextGen City">a02b4cfe470331105c6f8c1f316d4320</sys_scope>
+        <sys_scope_delete display_value="">0bf1ecd3b37149408a5bc02a3fd6a310</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_5ab454e7478fb1105c6f8c1f316d43fc</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_5ab454e7478fb1105c6f8c1f316d43fc">6316506b478fb1105c6f8c1f316d43e8</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-17 10:00:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

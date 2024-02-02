@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ed216b9347cbb1105c6f8c1f316d43a8" label="NextGen City Landlords" max_length="40" name="x_1152975_nextgen_nextgen_city_landlords" type="collection">
+        <element label="Age" max_length="40" name="age" type="integer"/>
+        <element label="Is this landlord under evaluation?" max_length="40" name="is_this_landlord_under_evaluation" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="100" name="name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" hint="Reference number for the property owned" label="Landlord ID" max_length="40" name="number" type="string"/>
+        <element label="Number of Tenants" max_length="40" name="number_of_tenants" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Overall Rating" max_length="40" name="overall_rating" type="string">
+            <choice>
+                <element inactive_on_update="false" label="1 - Worst" sequence="0" value="1 - Worst"/>
+                <element inactive="true" inactive_on_update="true" label="3" sequence="0" value="3"/>
+                <element inactive_on_update="false" label="2" sequence="1" value="2"/>
+                <element inactive="true" inactive_on_update="true" label="4 - Worst" sequence="1" value="4 - Worst"/>
+                <element inactive_on_update="false" label="3 - Average" sequence="2" value="3 - Average"/>
+                <element inactive="true" inactive_on_update="true" label="5 - Worst" sequence="2" value="5 - Worst"/>
+                <element inactive="true" inactive_on_update="true" label="1 - Great" sequence="3" value="1 - Great"/>
+                <element inactive_on_update="false" label="4" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="5 - Great" sequence="4" value="5 - Great"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Property Complaints" max_length="32" name="property_complaints" reference="x_1152975_nextgen_nextgen_city_residence_complaints" type="reference"/>
+        <element attributes="encode_utf8=false" label="Property(s)" max_length="32" name="property_s" reference="x_1152975_nextgen_residences" type="reference"/>
+        <element attributes="encode_utf8=false" hint="NextCity Roommates" label="Tenants" max_length="32" name="tenants" reference="x_1152975_nextgen_roommates" type="reference"/>
+        <element label="Under Evaluation" max_length="40" name="under_evaluation" type="boolean"/>
+        <element label="Under Review" max_length="40" name="under_review" type="boolean"/>
+        <index name="index">
+            <element name="property_complaints"/>
+        </index>
+        <index name="index2">
+            <element name="property_s"/>
+        </index>
+        <index name="index3">
+            <element name="tenants"/>
+        </index>
+    </element>
+</database>

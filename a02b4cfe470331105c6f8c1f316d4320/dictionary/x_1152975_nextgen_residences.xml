@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e02b4cfe470331105c6f8c1f316d4320" label="Residences" max_length="40" name="x_1152975_nextgen_residences" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Address" max_length="40" name="address" type="string"/>
+        <element label="Available" max_length="40" name="available" type="boolean"/>
+        <element label="Director Approval" max_length="40" name="director_approval" type="boolean"/>
+        <element attributes="encode_utf8=false" label="Landlord" max_length="32" name="landlord" reference="x_1152975_nextgen_nextgen_city_landlords" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" hint="This is the reference number for the residence" label="Residence ID" max_length="40" name="number" type="string"/>
+        <element label="Number of Rooms" max_length="40" name="number_of_rooms" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone Number" max_length="40" name="phone_number" type="string"/>
+        <element label="Rent" max_length="40" name="rent" type="integer"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Residence Rent" max_length="20" name="residence_rent" type="price"/>
+        <index name="index">
+            <element name="landlord"/>
+        </index>
+    </element>
+</database>

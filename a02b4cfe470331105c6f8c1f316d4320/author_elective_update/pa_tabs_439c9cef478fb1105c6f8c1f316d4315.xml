@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="DELETE">
+        <canvas_page/>
+        <name>NextGen City Directo - New Tab 2</name>
+        <page/>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-17 10:28:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>439c9cef478fb1105c6f8c1f316d4315</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NextGen City Directo - New Tab 2</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NextGen City" source="x_1152975_nextgen">a02b4cfe470331105c6f8c1f316d4320</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NextGen City">a02b4cfe470331105c6f8c1f316d4320</sys_scope>
+        <sys_update_name>pa_tabs_439c9cef478fb1105c6f8c1f316d4315</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-17 10:28:38</sys_updated_on>
+    </pa_tabs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NextGen City">a02b4cfe470331105c6f8c1f316d4320</application>
+        <file_path/>
+        <instance_id>9d5ea203db6e7114caf99027c5961967</instance_id>
+        <instance_name>dev219679</instance_name>
+        <name>pa_tabs_439c9cef478fb1105c6f8c1f316d4315</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs"><pa_tabs action="INSERT_OR_UPDATE"><canvas_page/><name>NextGen City Directo - New Tab 2</name><page/><sys_class_name>pa_tabs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-17 10:28:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>439c9cef478fb1105c6f8c1f316d4315</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NextGen City Directo - New Tab 2</sys_name><sys_overrides/><sys_package display_value="NextGen City" source="x_1152975_nextgen">a02b4cfe470331105c6f8c1f316d4320</sys_package><sys_policy/><sys_scope display_value="NextGen City">a02b4cfe470331105c6f8c1f316d4320</sys_scope><sys_update_name>pa_tabs_439c9cef478fb1105c6f8c1f316d4315</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-17 10:28:38</sys_updated_on></pa_tabs></record_update>]]></payload>
+        <payload_hash>-1519413202</payload_hash>
+        <record_name>NextGen City Directo - New Tab 2</record_name>
+        <reverted_from/>
+        <source>ac2b4cfe470331105c6f8c1f316d4345</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-17 10:28:43</sys_created_on>
+        <sys_id>54ac9cef478fb1105c6f8c1f316d438f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c77522cee0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-17 10:28:43</sys_updated_on>
+        <type>Tab</type>
+        <update_guid>079c9cefc68fb1106f0875ad564d0216</update_guid>
+        <update_guid_history>079c9cefc68fb1106f0875ad564d0216:-2141502271,079c9cefc68fb1106f0875ad564d0216:-2141502271,079c9cefc68fb1106f0875ad564d0216:-2141502271</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="NextGen City Directo - New Tab 2">18ac9cef478fb1105c6f8c1f316d4395</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-17 10:28:43</sys_created_on>
+        <sys_db_object display_value="" name="pa_tabs">pa_tabs</sys_db_object>
+        <sys_id>170a5ab74e67401090e8684f91a0f464</sys_id>
+        <sys_metadata>439c9cef478fb1105c6f8c1f316d4315</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NextGen City Directo - New Tab 2</sys_name>
+        <sys_package display_value="NextGen City" source="x_1152975_nextgen">a02b4cfe470331105c6f8c1f316d4320</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NextGen City">a02b4cfe470331105c6f8c1f316d4320</sys_scope>
+        <sys_scope_delete display_value="">0bf1ecd3b37149408a5bc02a3fd6a310</sys_scope_delete>
+        <sys_update_name>pa_tabs_439c9cef478fb1105c6f8c1f316d4315</sys_update_name>
+        <sys_update_version display_value="pa_tabs_439c9cef478fb1105c6f8c1f316d4315">54ac9cef478fb1105c6f8c1f316d438f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-17 10:28:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

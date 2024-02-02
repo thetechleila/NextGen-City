@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="68d01cb6474331105c6f8c1f316d4342" label="Roommates" max_length="40" name="x_1152975_nextgen_roommates" type="collection">
+        <element label="Age" max_length="40" name="age" type="integer"/>
+        <element label="Banned" max_length="40" name="banned" type="boolean"/>
+        <element attributes="encode_utf8=false" label="Evaluating Admin" max_length="32" name="evaluating_admin" reference="x_1152975_nextgen_nextgen_admins" type="reference"/>
+        <element label="Manager Approval" max_length="40" name="manager_approval" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Move In By" max_length="40" name="move_in_by" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Rent Range" max_length="20" name="rent_range" type="price"/>
+        <index name="index">
+            <element name="evaluating_admin"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_1152975_nextgen_nextgen_residences" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_1152975_nextgen_nextgen_residences" element="NULL" name="x_1152975_nextgen_nextgen_residences" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5d1d539f478bb1105c6f8c1f316d4387</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-17 05:51:04</sys_created_on>
+            <sys_id>591d539f478bb1105c6f8c1f316d4388</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-17 05:51:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_1152975_nextgen_nextgen_residences</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-17 05:51:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5d1d539f478bb1105c6f8c1f316d4387</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1152975_nextgen_nextgen_residences</sys_name>
+            <sys_package display_value="NextGen City" source="x_1152975_nextgen">a02b4cfe470331105c6f8c1f316d4320</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NextGen City">a02b4cfe470331105c6f8c1f316d4320</sys_scope>
+            <sys_update_name>sys_ui_list_x_1152975_nextgen_nextgen_residences_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-17 05:51:04</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NextGen City">a02b4cfe470331105c6f8c1f316d4320</application>
+        <file_path/>
+        <instance_id>9d5ea203db6e7114caf99027c5961967</instance_id>
+        <instance_name>dev219679</instance_name>
+        <name>sys_ui_list_x_1152975_nextgen_nextgen_residences_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_1152975_nextgen_nextgen_residences" version="2" view=""><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_created_on</element><list_id display_value="x_1152975_nextgen_nextgen_residences" element="NULL" name="x_1152975_nextgen_nextgen_residences" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5d1d539f478bb1105c6f8c1f316d4387</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-17 05:51:04</sys_created_on><sys_id>591d539f478bb1105c6f8c1f316d4388</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-17 05:51:04</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_1152975_nextgen_nextgen_residences</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-17 05:51:04</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5d1d539f478bb1105c6f8c1f316d4387</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1152975_nextgen_nextgen_residences</sys_name><sys_package display_value="NextGen City" source="x_1152975_nextgen">a02b4cfe470331105c6f8c1f316d4320</sys_package><sys_policy/><sys_scope display_value="NextGen City">a02b4cfe470331105c6f8c1f316d4320</sys_scope><sys_update_name>sys_ui_list_x_1152975_nextgen_nextgen_residences_null</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-17 05:51:04</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>-113888476</payload_hash>
+        <record_name>NextGen Residences</record_name>
+        <reverted_from/>
+        <source>ac2b4cfe470331105c6f8c1f316d4345</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-17 05:51:04</sys_created_on>
+        <sys_id>d91d539f478bb1105c6f8c1f316d438a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c7653fc9c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-17 05:51:04</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>991d539f438bb11034a98671cef9b98a</update_guid>
+        <update_guid_history>991d539f438bb11034a98671cef9b98a:-113888476</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-17 05:53:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>242c4f6f150847d0a44a4830dd333051</sys_id>
+        <sys_metadata>5d1d539f478bb1105c6f8c1f316d4387</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1152975_nextgen_nextgen_residences</sys_name>
+        <sys_package display_value="NextGen City" source="x_1152975_nextgen">a02b4cfe470331105c6f8c1f316d4320</sys_package>
+        <sys_parent display_value="">becc9f5f478bb1105c6f8c1f316d43d0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NextGen City">a02b4cfe470331105c6f8c1f316d4320</sys_scope>
+        <sys_scope_delete display_value="">0bf1ecd3b37149408a5bc02a3fd6a310</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_1152975_nextgen_nextgen_residences_null</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_1152975_nextgen_nextgen_residences_null">d91d539f478bb1105c6f8c1f316d438a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-17 05:53:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

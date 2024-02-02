@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="1504e75747cbb1105c6f8c1f316d433e" sys_domain="global" table="x_1152975_nextgen_residences" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-17 06:21:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d904e75747cbb1105c6f8c1f316d4340</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1152975_nextgen_residences" name="x_1152975_nextgen_residences" sys_domain="global" view="Default view">1504e75747cbb1105c6f8c1f316d433e</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1152975_nextgen_residences" sys_domain="global" view="Default view">7aad0cb2474331105c6f8c1f316d4347</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-17 06:21:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-17 06:21:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a504e75747cbb1105c6f8c1f316d4341</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1152975_nextgen_residences" name="x_1152975_nextgen_residences" sys_domain="global" view="Default view">1504e75747cbb1105c6f8c1f316d433e</sys_ui_form>
+            <sys_ui_section caption="NextGen City Management" display_value="NextGen City Management" name="x_1152975_nextgen_residences" sys_domain="global" view="Default view">d904e75747cbb1105c6f8c1f316d433d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-17 06:21:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1152975_nextgen_residences</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-17 06:21:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1504e75747cbb1105c6f8c1f316d433e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1152975_nextgen_residences</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NextGen City" source="x_1152975_nextgen">a02b4cfe470331105c6f8c1f316d4320</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NextGen City">a02b4cfe470331105c6f8c1f316d4320</sys_scope>
+            <sys_update_name>sys_ui_form_sections_1504e75747cbb1105c6f8c1f316d433e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-17 06:21:23</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

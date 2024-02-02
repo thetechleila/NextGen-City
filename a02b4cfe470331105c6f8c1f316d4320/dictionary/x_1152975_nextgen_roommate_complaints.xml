@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6a4a65fa478731105c6f8c1f316d4347" label="Roommate Complaints" max_length="40" name="x_1152975_nextgen_roommate_complaints" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Complaint" max_length="1000" name="complaint" type="string"/>
+        <element attributes="encode_utf8=false" label="Complaintant" max_length="32" name="complaintant" reference="x_1152975_nextgen_roommates" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" max_length="100" name="email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Evaluated?" max_length="40" name="evaluated" type="string">
+            <choice/>
+        </element>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Complaint ID" max_length="40" name="number" type="string"/>
+        <element label="Phone Number" max_length="40" name="phone_number" type="phone_number_e164"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Preferred Form of Contact" max_length="40" name="preferred_form_of_contact" type="string">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="Phone" sequence="0" value="Phone"/>
+                <element inactive_on_update="false" label="Phone Call" sequence="0" value="Phone Call"/>
+                <element inactive_on_update="false" label="Email" sequence="1" value="Email"/>
+                <element inactive_on_update="false" label="Text" sequence="2" value="Text"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Roommate in Question" max_length="32" name="roommate_in_question" reference="x_1152975_nextgen_roommates" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Severity" max_length="40" name="severity" type="string">
+            <choice>
+                <element inactive_on_update="false" label="1 - Annoying" sequence="0" value="1 - Annoying"/>
+                <element inactive_on_update="false" label="2 - Bad" sequence="1" value="2 - Bad"/>
+                <element inactive_on_update="false" label="3 - Awful" sequence="2" value="3 - Awful"/>
+                <element inactive_on_update="false" label="4 - Unbearable" sequence="3" value="4 - Unbearable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Evaluation State" max_length="40" name="u_choice_2" type="string">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Pending" sequence="0" value="Pending"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="In Progress" sequence="1" value="In Progress"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 3" sequence="2" value="Choice 3"/>
+                <element inactive_on_update="false" label="Resolved" sequence="2" value="Resolved"/>
+                <element inactive_on_update="false" label="Closed" sequence="3" value="Closed"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="New Reference" max_length="32" name="u_reference_1" reference="cmdb_multisource_deny_class" type="reference"/>
+        <index name="index">
+            <element name="complaintant"/>
+        </index>
+        <index name="index2">
+            <element name="roommate_in_question"/>
+        </index>
+        <index name="index3">
+            <element name="u_reference_1"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA NextGen City Directo - New Tab 2">e75f18a347cfb1105c6f8c1f316d4386</canvas_page>
+        <name>Roommate Demographics</name>
+        <page display_value="PA Roommate Demographics">235f18a347cfb1105c6f8c1f316d4386</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-17 10:40:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2b5f18a347cfb1105c6f8c1f316d4388</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Roommate Demographics</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NextGen City" source="x_1152975_nextgen">a02b4cfe470331105c6f8c1f316d4320</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NextGen City">a02b4cfe470331105c6f8c1f316d4320</sys_scope>
+        <sys_update_name>pa_tabs_2b5f18a347cfb1105c6f8c1f316d4388</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-17 10:41:12</sys_updated_on>
+    </pa_tabs>
+</record_update>
